@@ -1,3 +1,4 @@
+<#ftl output_format="HTML" auto_esc=true>
 <html>
 <head>
   <title>Welcome!</title>
